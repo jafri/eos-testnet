@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #!/bin/bash
-EOSIOBINDIR="/opt/eos/programs/nodeos"
-DATADIR=/opt/nodeos
+EOSIOBINDIR="/opt/eos/build/programs/nodeos"
+DATADIR=/opt/whale
 
 #export LD_LIBRARY_PATH=/lib:/usr/lib:/usr/local/lib:$LD_LIBRARY_PATH
 
